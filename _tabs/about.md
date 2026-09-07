@@ -10,7 +10,7 @@ Hi, I'm **Talha Ucar**; a technology enthusiast with a strong focus on **CyberSe
 
 I hold a **Diploma in Computer Science** from **Concordia University** and have completed the **Master of Engineering in Information Systems Security** program at **Concordia University**.
 
-Currently, I work as a **Vulnerability Analyst at CAE**, where I specialize in identifying, assessing, mitigating, and remediating security vulnerabilities across systems and environments. My work is centered on improving security posture, reducing risk, and supporting compliance through practical and effective security measures.
+Currently, I work as a **IT Analyst at CAE**, where I specialize in identifying, assessing, mitigating, and remediating security vulnerabilities across systems and environments. My work is centered on improving security posture, reducing risk, and supporting compliance through practical and effective security measures.
 
 ## Professional Focus
 
